@@ -1,0 +1,33 @@
+.sidebar {
+   
+    overflow-y: auto;
+    position: relative;
+    background-color: #fff;
+    border-right: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    z-index: 20;
+    border-radius: 10px ;
+  }
+  
+
+ 
+  
+  
+  /* Scroll custom (como Sakai) */
+  .custom-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #999 transparent;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #bbb;
+    border-radius: 3px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }

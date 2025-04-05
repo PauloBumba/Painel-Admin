@@ -1,0 +1,45 @@
+/* Larguras customizadas */
+.sidebar-collapsed {
+    width: 6rem; /* 64px */
+  }
+  
+  .sidebar-expanded {
+    width: 16rem; /* 256px */
+  }
+  
+  /* Margens do conteúdo principal */
+  .content-collapsed {
+    /* 64px */
+  }
+  
+  .content-expanded {
+   
+  }
+  
+  /* Transição suave */
+  .sidebar-transition,
+  .content-transition {
+    transition: all 0.6s ease;
+  }
+  
+.main-painel{
+    overflow-y: auto;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #ddd;
+   
+    z-index: 20;
+    border-radius: 10px ;
+    margin:0 20px;
+  }
+  
+.footer-painel{
+    overflow-y: auto;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #ddd;
+   
+    z-index: 20;
+    border-radius: 10px ;
+    margin:20px 20px 0 20px;
+  }
