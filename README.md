@@ -17,6 +17,6 @@ Design responsivo
 
 Notificações e interações em tempo real
 
-Esse projeto faz parte da minha jornada como desenvolvedora fullstack, com foco em C# / ASP.NET Core + React. Ainda tem muita coisa vindo por aí, mas celebrar cada etapa é fundamental. 💪
+Esse projeto faz parte da minha jornada como desenvolvedor fullstack, com foco em C# / ASP.NET Core + React. Ainda tem muita coisa vindo por aí, mas celebrar cada etapa é fundamental. 💪
 
 Agradeço quem está acompanhando minha evolução. 🚀 Se quiserem ver como ficou ou trocar ideias, estou por aqui!
